@@ -104,9 +104,9 @@ O projeto utiliza **modelagem dimensional (Star Schema)**:
 ## Tecnologias Utilizadas
 
 * Python (pandas)
-* SQL (SQLite/PostgreSQL)
+* SQL (PostgreSQL)
 * Jupyter Notebook
-* Power BI (opcional para visualização)
+* Power BI 
 
 ---
 
